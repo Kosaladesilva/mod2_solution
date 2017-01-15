@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>module2-solution</title>
+    <link rel="stylesheet" href="css/stylesheet.css">
+  </head>
+<body>
+  <h1>Our menu</h1>
+  <div class="row">
 
-You can use the [editor on GitHub](https://github.com/Kosaladesilva/mod2_solution/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kosaladesilva/mod2_solution/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  <section class="col-lg-4 col-md-6">
+  <h3 class="header" id="Chicken">Chicken</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac rhoncus enim.
+    Etiam urna massa, faucibus quis risus ac, molestie dictum ligula. Praesent tempus ultrices eros nec venenatis.
+    Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+    Nam at velit accumsan, mollis erat vitae, mollis tellus. Cras ultricies odio nisi, ut tristique risus consequat sed. 
+    Ut rutrum volutpat nulla, id dictum risus sagittis a. Aliquam vehicula semper nisl vitae feugiat. 
+    </p>
+  </section>
+    
+    <section class="col-lg-4 col-md-6">
+    <h3 class="header" id="Beef">Beef</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac rhoncus enim.
+    Etiam urna massa, faucibus quis risus ac, molestie dictum ligula. Praesent tempus ultrices eros nec venenatis.
+    Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+    Nam at velit accumsan, mollis erat vitae, mollis tellus. Cras ultricies odio nisi, ut tristique risus consequat sed. 
+    Ut rutrum volutpat nulla, id dictum risus sagittis a. Aliquam vehicula semper nisl vitae feugiat.
+    </p>
+  </section>
+  
+    <section class="col-lg-4 col-md-12 row">
+    <h3 class="header" id="Sushi">Sushi</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac rhoncus enim.
+    Etiam urna massa, faucibus quis risus ac, molestie dictum ligula. Praesent tempus ultrices eros nec venenatis.
+    Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+    Nam at velit accumsan, mollis erat vitae, mollis tellus. Cras ultricies odio nisi, ut tristique risus consequat sed. 
+    Ut rutrum volutpat nulla, id dictum risus sagittis a. Aliquam vehicula semper nisl vitae feugiat.
+    </p>
+  </section>
+  </div>
+</body>
+</html>
